@@ -1,7 +1,3 @@
-Here is a professional, resume-ready `README.md`. It frames your project as a sophisticated, completed system that solves the "Memory Wall" problem using advanced distributed computing techniques.
-
-***
-
 # Godspeed 🚀
 ### High-Performance Speculative Inference for Constrained Hardware
 
